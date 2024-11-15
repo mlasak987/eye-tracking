@@ -1,0 +1,4 @@
+repository "EEG-BCI@SKN_SpaceCoffee@cloud"
+  path "/"
+    br "/main"
+    co "/main"
